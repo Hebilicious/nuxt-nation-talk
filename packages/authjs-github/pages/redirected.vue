@@ -1,0 +1,1 @@
+<template>Please authenticate</template>

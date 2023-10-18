@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-nation-auth",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "live/*"
+  ],
+  "devDependencies": {
+    "@hebilicious/eslint-config": "0.0.3-beta.3",
+    "@total-typescript/ts-reset": "^0.4.2",
+    "@types/node": "^20.4.10",
+    "eslint": "^8.47.0",
+    "typescript": "^5.2.2"
+  }
+}
